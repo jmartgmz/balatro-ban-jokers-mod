@@ -1,0 +1,11 @@
+{
+    "id": "JokerDemolisher",
+    "name": "JokerDemolisher",
+    "version": "1.0.0",
+    "author": "jmargmz",
+    "description": "Click jokers in the collection to globally ban them from all runs",
+    "prefix": "jkdem",
+    "main_file": "JokerDemolisher.lua",
+    "priority": 0,
+    "dependencies": []
+}
